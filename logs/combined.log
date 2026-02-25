@@ -1,0 +1,44 @@
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Feb/2026:09:28:56 +0000] \"GET / HTTP/1.1\" 200 24 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Feb/2026:09:28:57 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Feb/2026:09:53:00 +0000] \"GET / HTTP/1.1\" 200 24 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Feb/2026:09:55:29 +0000] \"GET / HTTP/1.1\" 200 24 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Feb/2026:09:55:42 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Feb/2026:09:56:06 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Feb/2026:09:56:40 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Feb/2026:11:48:42 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Feb/2026:11:49:55 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 144 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Feb/2026:11:50:26 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: ${email}","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Feb/2026:11:50:36 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 110 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User hareeshtj1996@gmail.com created successfully","service":"acquisitions-api"}
+{"level":"error","message":"Signup error res.cookies is not a function","service":"acquisitions-api","stack":"TypeError: res.cookies is not a function\n    at Object.set (file:///C:/Users/Admin/Downloads/acquisitions/src/utils/cookies.js:10:13)\n    at signup (file:///C:/Users/Admin/Downloads/acquisitions/src/controllers/auth.controller.js:28:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)"}
+{"level":"info","message":"::1 - - [25/Feb/2026:14:29:05 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 371 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error creating the user: Error: Failed query: insert into \"users\" (\"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\") values (default, $1, $2, $3, $4, default, default) returning \"id\", \"name\", \"email\", \"role\", \"created_at\"\nparams: Admin,hareeshtj1996@gmail.com,$2b$10$bDNq43nPoPK7tQMMMQJGsukBlnqc9czFqxgLjk4JAkZtP2VX3/Fvq,admin","service":"acquisitions-api"}
+{"level":"error","message":"Signup error Error creating user","service":"acquisitions-api","stack":"Error: Error creating user\n    at createUser (file:///C:/Users/Admin/Downloads/acquisitions/src/services/auth.service.js:36:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async signup (file:///C:/Users/Admin/Downloads/acquisitions/src/controllers/auth.controller.js:23:22)"}
+{"level":"info","message":"::1 - - [25/Feb/2026:14:29:27 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 485 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error creating the user: Error: Failed query: insert into \"users\" (\"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\") values (default, $1, $2, $3, $4, default, default) returning \"id\", \"name\", \"email\", \"role\", \"created_at\"\nparams: Admin,hareeshtj1996@gmail.com,$2b$10$ml8atLVFwF3Z9dE.gz./eOE5Aew1eYneorxIygl/DRZsCoZy9a5I6,user","service":"acquisitions-api"}
+{"level":"error","message":"Signup error Error creating user","service":"acquisitions-api","stack":"Error: Error creating user\n    at createUser (file:///C:/Users/Admin/Downloads/acquisitions/src/services/auth.service.js:36:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async signup (file:///C:/Users/Admin/Downloads/acquisitions/src/controllers/auth.controller.js:23:22)"}
+{"level":"info","message":"::1 - - [25/Feb/2026:14:30:44 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 485 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error creating the user: Error: User already exists","service":"acquisitions-api"}
+{"level":"error","message":"Signup error Error creating user","service":"acquisitions-api","stack":"Error: Error creating user\n    at createUser (file:///C:/Users/Admin/Downloads/acquisitions/src/services/auth.service.js:36:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async signup (file:///C:/Users/Admin/Downloads/acquisitions/src/controllers/auth.controller.js:23:22)"}
+{"level":"info","message":"::1 - - [25/Feb/2026:14:31:40 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 485 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error creating the user: Error: User already exists","service":"acquisitions-api"}
+{"level":"error","message":"Signup error User already exists","service":"acquisitions-api","stack":"Error: User already exists\n    at createUser (file:///C:/Users/Admin/Downloads/acquisitions/src/services/auth.service.js:21:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async signup (file:///C:/Users/Admin/Downloads/acquisitions/src/controllers/auth.controller.js:23:22)"}
+{"level":"info","message":"::1 - - [25/Feb/2026:14:33:11 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 485 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User hareeshtj1996@gmail.com created successfully","service":"acquisitions-api"}
+{"level":"error","message":"Signup error res.cookies is not a function","service":"acquisitions-api","stack":"TypeError: res.cookies is not a function\n    at Object.set (file:///C:/Users/Admin/Downloads/acquisitions/src/utils/cookies.js:10:13)\n    at signup (file:///C:/Users/Admin/Downloads/acquisitions/src/controllers/auth.controller.js:28:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)"}
+{"level":"info","message":"::1 - - [25/Feb/2026:14:33:38 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 485 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error creating the user: Error: User already exists","service":"acquisitions-api"}
+{"level":"error","message":"Signup error User already exists","service":"acquisitions-api","stack":"Error: User already exists\n    at createUser (file:///C:/Users/Admin/Downloads/acquisitions/src/services/auth.service.js:21:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async signup (file:///C:/Users/Admin/Downloads/acquisitions/src/controllers/auth.controller.js:23:22)"}
+{"level":"info","message":"::1 - - [25/Feb/2026:14:35:30 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 485 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User hareeshtj1996@gmail.com created successfully","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: hareeshtj1996@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Feb/2026:14:35:38 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 109 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User hareeshtj1996@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: hareeshtj1996@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Feb/2026:16:15:37 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 121 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Feb/2026:16:16:14 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
