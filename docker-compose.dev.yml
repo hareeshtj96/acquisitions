@@ -36,7 +36,6 @@ services:
     volumes:
       # Mount source code for development hot-reload
       - .:/app
-      - /app/node_modules
       # Mount logs directory
       - ./logs:/app/logs
     depends_on:

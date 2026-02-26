@@ -243,3 +243,216 @@
 {"level":"info","message":"::1 - - [26/Feb/2026:09:56:09 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [26/Feb/2026:09:56:43 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [26/Feb/2026:09:57:17 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:09:57:51 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:09:58:24 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:09:58:59 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:09:59:31 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:00:05 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:00:39 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:01:13 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:01:47 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:02:21 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:02:54 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:03:28 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:04:02 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:04:39 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:05:13 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:05:46 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:06:20 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:06:55 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:07:31 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:08:05 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:08:39 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:09:13 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:09:47 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:10:20 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:10:55 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:11:29 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:12:03 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:12:40 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:13:13 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:13:47 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:14:22 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:14:56 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:15:30 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:16:04 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:16:37 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:17:11 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:17:45 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:10:18:08 +0000] \"POST /api/users HTTP/1.1\" 404 149 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:10:18:13 +0000] \"GET /api/users HTTP/1.1\" 404 148 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:18:18 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:18:52 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:10:18:53 +0000] \"GET /api/ HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:10:19:00 +0000] \"GET /api/users HTTP/1.1\" 404 148 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:10:22:09 +0000] \"GET /api/users HTTP/1.1\" 200 363 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:22:27 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:23:01 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:23:34 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:24:08 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:24:42 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:25:16 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:25:52 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:26:26 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:27:00 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:27:32 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:28:08 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:28:42 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:40:52 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:41:26 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:42:00 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:42:34 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:43:08 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:43:41 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:44:15 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:44:49 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:45:22 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:45:56 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:46:31 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:47:05 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:47:38 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:48:13 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:48:47 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:49:21 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:49:54 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:50:28 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:51:02 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:51:36 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:52:10 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:52:44 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:53:17 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:53:51 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:54:25 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:54:59 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:55:32 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:56:06 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:56:40 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:57:13 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:57:47 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:58:21 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:58:55 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:10:59:28 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:00:02 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:00:36 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:01:09 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:01:43 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:02:16 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:11:02:40 +0000] \"GET /api/users/5 HTTP/1.1\" 200 14 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:02:50 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:03:24 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:03:57 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:04:31 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:05:05 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:05:38 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:06:12 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:06:45 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:07:19 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:07:53 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:08:26 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:09:01 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:09:36 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:10:08 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:10:42 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:11:16 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:11:50 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:12:23 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:12:57 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:13:31 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:14:04 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:14:41 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:15:15 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:11:15:26 +0000] \"GET /api/users/5 HTTP/1.1\" 200 14 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:15:49 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:16:22 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:16:56 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:17:30 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:18:00 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:18:37 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:19:11 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:19:45 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:20:18 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:20:49 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:21:28 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:22:02 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:22:36 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:23:09 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:23:43 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:24:14 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:11:24:27 +0000] \"GET /api/users/5 HTTP/1.1\" 200 14 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:11:24:38 +0000] \"GET /api/users/1 HTTP/1.1\" 200 14 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:24:50 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:11:25:01 +0000] \"GET /api/users/1 HTTP/1.1\" 200 14 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:25:24 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:38:43 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:39:19 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:39:53 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:40:25 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:11:40:29 +0000] \"GET /api/users/1 HTTP/1.1\" 401 72 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:40:58 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:41:32 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:42:06 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:42:40 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:43:14 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User hareesh@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: hareesh@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:11:43:38 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 116 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:43:47 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:44:21 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareesh@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 2","service":"acquisitions-api"}
+{"level":"error","message":"Error getting user by id users.id.eq is not a function","service":"acquisitions-api","stack":"TypeError: users.id.eq is not a function\n    at getUserById (file:///app/src/services/users.service.js:31:35)\n    at fetchUserById (file:///app/src/controllers/users.controller.js:39:24)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)\n    at next (/app/node_modules/router/lib/route.js:157:13)\n    at authenticateToken (file:///app/src/middleware/auth.middleware.js:20:5)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)\n    at next (/app/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/app/node_modules/router/lib/route.js:117:3)\n    at handle (/app/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)"}
+{"level":"error","message":"Error fetching user by id: users.id.eq is not a function","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:11:44:35 +0000] \"GET /api/users/2 HTTP/1.1\" 500 986 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:44:55 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:45:29 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:46:02 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:46:36 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:47:10 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareesh@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 2","service":"acquisitions-api"}
+{"level":"error","message":"Error getting user by id users.id.eq is not a function","service":"acquisitions-api","stack":"TypeError: users.id.eq is not a function\n    at getUserById (file:///app/src/services/users.service.js:31:35)\n    at fetchUserById (file:///app/src/controllers/users.controller.js:39:24)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)\n    at next (/app/node_modules/router/lib/route.js:157:13)\n    at authenticateToken (file:///app/src/middleware/auth.middleware.js:20:5)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)\n    at next (/app/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/app/node_modules/router/lib/route.js:117:3)\n    at handle (/app/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)"}
+{"level":"error","message":"Error fetching user by id: users.id.eq is not a function","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:11:47:19 +0000] \"GET /api/users/2 HTTP/1.1\" 500 986 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:47:43 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:48:18 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:48:52 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:49:26 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:49:59 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:50:33 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareesh@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 2","service":"acquisitions-api"}
+{"level":"error","message":"Error getting user by id users.id.eq is not a function","service":"acquisitions-api","stack":"TypeError: users.id.eq is not a function\n    at getUserById (file:///app/src/services/users.service.js:31:35)\n    at fetchUserById (file:///app/src/controllers/users.controller.js:39:24)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)\n    at next (/app/node_modules/router/lib/route.js:157:13)\n    at authenticateToken (file:///app/src/middleware/auth.middleware.js:20:5)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)\n    at next (/app/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/app/node_modules/router/lib/route.js:117:3)\n    at handle (/app/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)"}
+{"level":"error","message":"Error fetching user by id: users.id.eq is not a function","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:11:50:55 +0000] \"GET /api/users/2 HTTP/1.1\" 500 986 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareesh@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 2","service":"acquisitions-api"}
+{"level":"error","message":"Error getting user by id eq is not defined","service":"acquisitions-api","stack":"ReferenceError: eq is not defined\n    at getUserById (file:///C:/Users/Admin/Downloads/acquisitions/src/services/users.service.js:33:13)\n    at fetchUserById (file:///C:/Users/Admin/Downloads/acquisitions/src/controllers/users.controller.js:39:24)\n    at Layer.handleRequest (C:\\Users\\Admin\\Downloads\\acquisitions\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\Admin\\Downloads\\acquisitions\\node_modules\\router\\lib\\route.js:157:13)\n    at authenticateToken (file:///C:/Users/Admin/Downloads/acquisitions/src/middleware/auth.middleware.js:20:5)\n    at Layer.handleRequest (C:\\Users\\Admin\\Downloads\\acquisitions\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\Admin\\Downloads\\acquisitions\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\Admin\\Downloads\\acquisitions\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\Admin\\Downloads\\acquisitions\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\Admin\\Downloads\\acquisitions\\node_modules\\router\\lib\\layer.js:152:17)"}
+{"level":"error","message":"Error fetching user by id: eq is not defined","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:57:04 +0000] \"GET /api/users/2 HTTP/1.1\" 500 1312 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareesh@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 2","service":"acquisitions-api"}
+{"cause":{"name":"NeonDbError","sourceError":{}},"level":"error","message":"Error getting user by id Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"id\" = $1 limit $2\nparams: 2,1","params":[2,1],"query":"select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"id\" = $1 limit $2","service":"acquisitions-api","stack":"Error: Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"id\" = $1 limit $2\nparams: 2,1\n    at NeonHttpPreparedQuery.queryWithCache (file:///C:/Users/Admin/Downloads/acquisitions/node_modules/drizzle-orm/pg-core/session.js:41:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async NeonHttpPreparedQuery.execute (file:///C:/Users/Admin/Downloads/acquisitions/node_modules/drizzle-orm/neon-http/session.js:45:20)\n    at async getUserById (file:///C:/Users/Admin/Downloads/acquisitions/src/services/users.service.js:25:24)\n    at async fetchUserById (file:///C:/Users/Admin/Downloads/acquisitions/src/controllers/users.controller.js:39:18)"}
+{"level":"error","message":"Error fetching user by id: Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"id\" = $1 limit $2\nparams: 2,1","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:57:57 +0000] \"GET /api/users/2 HTTP/1.1\" 500 1022 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareesh@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 5","service":"acquisitions-api"}
+{"cause":{"name":"NeonDbError","sourceError":{}},"level":"error","message":"Error getting user by id Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"id\" = $1 limit $2\nparams: 5,1","params":[5,1],"query":"select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"id\" = $1 limit $2","service":"acquisitions-api","stack":"Error: Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"id\" = $1 limit $2\nparams: 5,1\n    at NeonHttpPreparedQuery.queryWithCache (file:///C:/Users/Admin/Downloads/acquisitions/node_modules/drizzle-orm/pg-core/session.js:41:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async NeonHttpPreparedQuery.execute (file:///C:/Users/Admin/Downloads/acquisitions/node_modules/drizzle-orm/neon-http/session.js:45:20)\n    at async getUserById (file:///C:/Users/Admin/Downloads/acquisitions/src/services/users.service.js:25:24)\n    at async fetchUserById (file:///C:/Users/Admin/Downloads/acquisitions/src/controllers/users.controller.js:39:18)"}
+{"level":"error","message":"Error fetching user by id: Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"id\" = $1 limit $2\nparams: 5,1","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:59:02 +0000] \"GET /api/users/5 HTTP/1.1\" 500 1022 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareesh@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"cause":{"name":"NeonDbError","sourceError":{}},"level":"error","message":"Error gettting users Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\"\nparams: ","params":[],"query":"select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\"","service":"acquisitions-api","stack":"Error: Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\"\nparams: \n    at NeonHttpPreparedQuery.queryWithCache (file:///C:/Users/Admin/Downloads/acquisitions/node_modules/drizzle-orm/pg-core/session.js:41:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async NeonHttpPreparedQuery.execute (file:///C:/Users/Admin/Downloads/acquisitions/node_modules/drizzle-orm/neon-http/session.js:45:20)\n    at async getAllUsers (file:///C:/Users/Admin/Downloads/acquisitions/src/services/users.service.js:9:16)\n    at async fetchAllUsers (file:///C:/Users/Admin/Downloads/acquisitions/src/controllers/users.controller.js:11:22)"}
+{"cause":{"name":"NeonDbError","sourceError":{}},"level":"error","params":[],"query":"select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:59:10 +0000] \"GET /api/users HTTP/1.1\" 500 965 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareesh@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"cause":{"name":"NeonDbError","sourceError":{}},"level":"error","message":"Error gettting users Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\"\nparams: ","params":[],"query":"select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\"","service":"acquisitions-api","stack":"Error: Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\"\nparams: \n    at NeonHttpPreparedQuery.queryWithCache (file:///C:/Users/Admin/Downloads/acquisitions/node_modules/drizzle-orm/pg-core/session.js:41:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async NeonHttpPreparedQuery.execute (file:///C:/Users/Admin/Downloads/acquisitions/node_modules/drizzle-orm/neon-http/session.js:45:20)\n    at async getAllUsers (file:///C:/Users/Admin/Downloads/acquisitions/src/services/users.service.js:9:16)\n    at async fetchAllUsers (file:///C:/Users/Admin/Downloads/acquisitions/src/controllers/users.controller.js:11:22)"}
+{"cause":{"name":"NeonDbError","sourceError":{}},"level":"error","params":[],"query":"select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:11:59:48 +0000] \"GET /api/users HTTP/1.1\" 500 965 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:12:00:12 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareesh@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"cause":{"name":"NeonDbError","sourceError":{}},"level":"error","message":"Error gettting users Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\"\nparams: ","params":[],"query":"select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\"","service":"acquisitions-api","stack":"Error: Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\"\nparams: \n    at NeonHttpPreparedQuery.queryWithCache (file:///C:/Users/Admin/Downloads/acquisitions/node_modules/drizzle-orm/pg-core/session.js:41:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async NeonHttpPreparedQuery.execute (file:///C:/Users/Admin/Downloads/acquisitions/node_modules/drizzle-orm/neon-http/session.js:45:20)\n    at async getAllUsers (file:///C:/Users/Admin/Downloads/acquisitions/src/services/users.service.js:9:16)\n    at async fetchAllUsers (file:///C:/Users/Admin/Downloads/acquisitions/src/controllers/users.controller.js:11:22)"}
+{"cause":{"name":"NeonDbError","sourceError":{}},"level":"error","params":[],"query":"select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:12:00:20 +0000] \"GET /api/users HTTP/1.1\" 500 965 \"-\" \"HTTPie\"","service":"acquisitions-api"}
