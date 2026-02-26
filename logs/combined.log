@@ -456,3 +456,64 @@
 {"cause":{"name":"NeonDbError","sourceError":{}},"level":"error","message":"Error gettting users Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\"\nparams: ","params":[],"query":"select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\"","service":"acquisitions-api","stack":"Error: Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\"\nparams: \n    at NeonHttpPreparedQuery.queryWithCache (file:///C:/Users/Admin/Downloads/acquisitions/node_modules/drizzle-orm/pg-core/session.js:41:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async NeonHttpPreparedQuery.execute (file:///C:/Users/Admin/Downloads/acquisitions/node_modules/drizzle-orm/neon-http/session.js:45:20)\n    at async getAllUsers (file:///C:/Users/Admin/Downloads/acquisitions/src/services/users.service.js:9:16)\n    at async fetchAllUsers (file:///C:/Users/Admin/Downloads/acquisitions/src/controllers/users.controller.js:11:22)"}
 {"cause":{"name":"NeonDbError","sourceError":{}},"level":"error","params":[],"query":"select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\"","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [26/Feb/2026:12:00:20 +0000] \"GET /api/users HTTP/1.1\" 500 965 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareesh@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:12:16:42 +0000] \"GET /api/users HTTP/1.1\" 200 363 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareesh@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 2","service":"acquisitions-api"}
+{"level":"error","message":"Error getting user by id User not found","service":"acquisitions-api","stack":"Error: User not found\n    at getUserById (file:///app/src/services/users.service.js:38:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchUserById (file:///app/src/controllers/users.controller.js:39:18)"}
+{"level":"error","message":"Error fetching user by id: User not found","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:12:16:47 +0000] \"GET /api/users/2 HTTP/1.1\" 404 26 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareesh@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 5","service":"acquisitions-api"}
+{"level":"info","message":"User hareeshtj1996@gmail.com retrieved successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:12:16:52 +0000] \"GET /api/users/5 HTTP/1.1\" 200 201 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:12:17:05 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:12:17:38 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareesh@gmail.com (user)","service":"acquisitions-api"}
+{"level":"warn","message":"Access denied for user hareesh@gmail.com with role user. Required: admin","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:12:17:46 +0000] \"DELETE /api/users/5 HTTP/1.1\" 403 62 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:12:18:12 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:12:18:46 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareesh@gmail.com (user)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:12:19:03 +0000] \"GET /api/users HTTP/1.1\" 200 363 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:12:19:20 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:12:19:53 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"error","message":"Error authenticating user: Error: Invalid password","service":"acquisitions-api"}
+{"level":"error","message":"Signin error Invalid password","service":"acquisitions-api","stack":"Error: Invalid password\n    at authenticateUser (file:///app/src/services/auth.service.js:60:13)\n    at async signin (file:///app/src/controllers/auth.controller.js:66:18)"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:12:20:22 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:12:20:27 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User hareeshtj1996@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: hareeshtj1996@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:12:20:28 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 121 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareeshtj1996@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting users...","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:12:20:59 +0000] \"GET /api/users HTTP/1.1\" 200 363 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:12:21:01 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareeshtj1996@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 6","service":"acquisitions-api"}
+{"level":"info","message":"User hareesh@gmail.com retrieved successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:12:21:08 +0000] \"GET /api/users/6 HTTP/1.1\" 200 196 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareeshtj1996@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Deleting user: 6","service":"acquisitions-api"}
+{"level":"info","message":"User hareesh@gmail.com deleted successfully","service":"acquisitions-api"}
+{"level":"info","message":"User hareesh@gmail.com deleted successfully","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:12:21:12 +0000] \"DELETE /api/users/6 HTTP/1.1\" 200 114 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:12:21:19 +0000] \"DELETE /api/users HTTP/1.1\" 404 151 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareeshtj1996@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Deleting user: 1","service":"acquisitions-api"}
+{"level":"error","message":"Error getting user by id User not found","service":"acquisitions-api","stack":"Error: User not found\n    at getUserById (file:///app/src/services/users.service.js:38:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async deleteUser (file:///app/src/services/users.service.js:94:9)\n    at async deleteUserById (file:///app/src/controllers/users.controller.js:175:25)"}
+{"level":"error","message":"Error deleting user User not found","service":"acquisitions-api","stack":"Error: User not found\n    at getUserById (file:///app/src/services/users.service.js:38:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async deleteUser (file:///app/src/services/users.service.js:94:9)\n    at async deleteUserById (file:///app/src/controllers/users.controller.js:175:25)"}
+{"level":"error","message":"Error deleting user: User not found","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:12:21:28 +0000] \"DELETE /api/users/1 HTTP/1.1\" 404 26 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User authenticated: hareeshtj1996@gmail.com (admin)","service":"acquisitions-api"}
+{"level":"info","message":"Deleting user: 5","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:172.19.0.1 - - [26/Feb/2026:12:21:32 +0000] \"DELETE /api/users/5 HTTP/1.1\" 403 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:12:21:34 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:12:22:08 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:12:22:42 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:12:23:16 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:12:23:50 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:12:24:24 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [26/Feb/2026:12:25:31 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
