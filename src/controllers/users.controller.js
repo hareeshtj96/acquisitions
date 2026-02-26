@@ -1,8 +1,15 @@
 import logger from '#config/logger.js';
-import { getAllUsers, getUserById, updateUser, deleteUser } from '#services/users.service.js';
-import { userIdSchema, updateUserSchema } from '#validations/users.validation.js';
+import {
+  getAllUsers,
+  getUserById,
+  updateUser,
+  deleteUser,
+} from '#services/users.service.js';
+import {
+  userIdSchema,
+  updateUserSchema,
+} from '#validations/users.validation.js';
 import { formatValidationError } from '#utils/format.js';
-
 
 export const fetchAllUsers = async (req, res, next) => {
   try {
@@ -13,7 +20,7 @@ export const fetchAllUsers = async (req, res, next) => {
     res.json({
       message: 'Successfully retrieved users',
       users: allUsers,
-      count: allUsers.length
+      count: allUsers.length,
     });
   } catch (error) {
     logger.error(error);
@@ -25,15 +32,15 @@ export const fetchUserById = async (req, res, next) => {
   try {
     logger.info(`Getting user by id: ${req.params.id}`);
 
-    // validate user ID 
+    // validate user ID
     const validationResult = userIdSchema.safeParse({ id: req.params.id });
 
     if (!validationResult.success) {
       return res.status(400).json({
         error: 'Validation failed',
-        details: formatValidationError(validationResult.error)
+        details: formatValidationError(validationResult.error),
       });
-    };
+    }
 
     const { id } = validationResult.data;
     const user = await getUserById(id);
@@ -64,7 +71,7 @@ export const updateUserById = async (req, res, next) => {
     if (!idValidationResult.success) {
       return res.status(400).json({
         error: 'Validation failed',
-        details: formatValidationError(idValidationResult.error)
+        details: formatValidationError(idValidationResult.error),
       });
     }
 
@@ -74,7 +81,7 @@ export const updateUserById = async (req, res, next) => {
     if (!updateValidationResult.success) {
       return res.status(400).json({
         error: 'Validation failed',
-        details: formatValidationError(updateValidationResult.error)
+        details: formatValidationError(updateValidationResult.error),
       });
     }
 

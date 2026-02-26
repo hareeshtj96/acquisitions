@@ -5,7 +5,6 @@ import { formatValidationError } from '#utils/format.js';
 import { jwttoken } from '#utils/jwt.js';
 import { signupSchema, signInSchema } from '#validations/auth.validation.js';
 
-
 export const signup = async (req, res, next) => {
   try {
     const validationResult = signupSchema.safeParse(req.body);
@@ -13,7 +12,7 @@ export const signup = async (req, res, next) => {
     if (!validationResult.success) {
       return res.status(400).json({
         error: 'Validation failed',
-        details: formatValidationError(validationResult.error)
+        details: formatValidationError(validationResult.error),
       });
     }
 
@@ -22,7 +21,11 @@ export const signup = async (req, res, next) => {
     // Auth service
     const user = await createUser({ name, email, password, role });
 
-    const token = jwttoken.sign({ id: user.id, email: user.email, role: user.role });
+    const token = jwttoken.sign({
+      id: user.id,
+      email: user.email,
+      role: user.role,
+    });
 
     // Setup cookies
     cookies.set(res, 'token', token);
@@ -34,10 +37,9 @@ export const signup = async (req, res, next) => {
         id: user.id,
         name: user.name,
         email: user.email,
-        role: user.role
-      }
+        role: user.role,
+      },
     });
-
   } catch (error) {
     logger.error('Signup error', error);
 
@@ -56,7 +58,7 @@ export const signin = async (req, res, next) => {
     if (!validationResult.success) {
       return res.status(400).json({
         error: 'Validation failed',
-        details: formatValidationError(validationResult.error)
+        details: formatValidationError(validationResult.error),
       });
     }
 
@@ -65,7 +67,11 @@ export const signin = async (req, res, next) => {
     // Auth service
     const user = await authenticateUser({ email, password });
 
-    const token = jwttoken.sign({ id: user.id, email: user.email, role: user.role });
+    const token = jwttoken.sign({
+      id: user.id,
+      email: user.email,
+      role: user.role,
+    });
 
     // Setup cookies
     cookies.set(res, 'token', token);
@@ -77,10 +83,9 @@ export const signin = async (req, res, next) => {
         id: user.id,
         name: user.name,
         email: user.email,
-        role: user.role
-      }
+        role: user.role,
+      },
     });
-
   } catch (error) {
     logger.error('Signin error', error);
 
@@ -103,9 +108,8 @@ export const signout = async (req, res, next) => {
 
     logger.info('User signed out successfully');
     res.status(200).json({
-      message: 'User signed out successfully'
+      message: 'User signed out successfully',
     });
-
   } catch (error) {
     logger.error('Signout error', error);
     next(error);
